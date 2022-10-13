@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/uYmTXZtC1RqmxwKVfiYX3nIBmcbNly4pE2vmb3JfmjjgBSP5Z219kXrt8EJ/tRmfI34DmcWba7Q/CXJHj/gqw==",
+  "success": true,
+  "projectFilePath": "D:\\programação\\atividade2CRUD\\atividade2CRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dj-Vta\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512",
+    "C:\\Users\\Dj-Vta\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
